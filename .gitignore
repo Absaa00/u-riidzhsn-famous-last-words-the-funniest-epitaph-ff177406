@@ -1,0 +1,14 @@
+# Epitaph entry u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406
+# One line, one dare, one receipt: keep the stone, drop the clutter.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+output/
+entry.txt
+*.tar.gz
+.bundle/
+.DS_Store
+Thumbs.db
+*.log
+.venv/
+venv/
